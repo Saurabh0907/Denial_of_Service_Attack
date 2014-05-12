@@ -9,3 +9,7 @@ Later on when one of the clients attacks the server, server stops replying to al
 
 Then finally we could detect and prevent the attack.
 Here we used a sniffer to detect the attack. And then used counter based algorithm to prevent the attack.
+
+
+Link to the packet sniffer in c
+http://www.binarytides.com/packet-sniffer-code-c-linux/
